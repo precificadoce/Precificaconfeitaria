@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrecificaDoce</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_recipes">Receitas</string>
+    <string name="nav_ingredients">Insumos</string>
+    <string name="nav_calculator">Calculadora</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="hero_banner_desc">Ilustração artesanal de confeitaria com brigadeiros e batedor</string>
+    <string name="empty_recipes_desc">Ilustração de tigela e livro de receitas de confeitaria</string>
+    <string name="local_storage_notice">Armazenamento local ativo: seus dados ficam salvos neste aparelho.</string>
+</resources>

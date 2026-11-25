@@ -1,0 +1,6 @@
+{
+  "name": "PrecificaDoce",
+  "description": "Calculadora de precificacao, fichas tecnicas e controle de custos para confeitaria e doces artesanais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
